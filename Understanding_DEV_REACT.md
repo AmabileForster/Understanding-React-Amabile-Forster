@@ -16,5 +16,5 @@ Aqui temos algumas dicas de coisas a se fazer e também a serem evitadas para me
   
 Git é uma ferramenta de versionamento de código. Existem dois tipos de VCS (Version Control System) o centralizado e o distribuído.
 
-<img src="/assets/images/Centralizado.png" width="100px">
-<img src="/assets/images/Distribuído.png" width="100px">
+<img src="/assets/images/Centralizado.png" height="250px">
+<img src="/assets/images/Distribuído.png" height="250px">
